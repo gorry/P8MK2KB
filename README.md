@@ -30,11 +30,12 @@ PC-8001mkⅡのキーボードの解析結果
 - [TAB]がOFFになると、この状態は解除される。
 
 ### まとめ
-- まとめると、「A10=0だと[TAB]は[CTRL]+[I]に相当する」「A10=1だと[TAB]は[CTRL]に相当する」となる。
+- A10=0だと[TAB]は[CTRL]+[I]に相当する。
+- A10=1だと[TAB]は[CTRL]に相当する。
 
 ## 著作権表記
 
-Copyright 2004 Hiroaki GOTO as GORRY
+Copyright 2024 Hiroaki GOTO as GORRY
 
 本資料の内容は自由に利用を行うことができます。また自由に内容を改変し、再配布を行うことができます。
 
